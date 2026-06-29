@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252237196096",
+    "project_id": "bijli-mitra",
+    "storage_bucket": "bijli-mitra.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252237196096:android:956825bbff17fec114a8a5",
+        "android_client_info": {
+          "package_name": "com.exmple.bijli_mitra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCs6Pl1qEmFqunmw77hjJM9MRpWqaiEio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

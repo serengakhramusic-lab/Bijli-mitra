@@ -1,0 +1,6 @@
+{
+  "name": "Bijli Mitra",
+  "description": "Electricity utility and management application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
